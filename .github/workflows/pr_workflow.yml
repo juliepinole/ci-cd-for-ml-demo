@@ -31,5 +31,5 @@ jobs:
 
       - name: Run Python script
         run: |
-          echo hello_world.py is gonna run now
-          python hello_world.py
+          echo hello-world.py is gonna run now
+          python hello-world.py
